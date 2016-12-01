@@ -1,5 +1,5 @@
 {
-  "name": "dicer",
+  "name": "pirxpilot-dicer",
   "version": "0.2.5",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "A very fast streaming multipart parser for node.js",
@@ -18,15 +18,10 @@
     "form-data",
     "streaming"
   ],
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/mscdex/dicer/raw/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/mscdex/dicer.git"
+    "url": "http://github.com/pirxpilot/dicer.git"
   },
   "files": [
     "index.js",
