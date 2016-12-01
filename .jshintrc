@@ -1,0 +1,13 @@
+{
+  "node": true,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": "nofunc",
+  "noarg": true,
+  "undef": true,
+  "unused": true,
+  "laxbreak": true,
+  "noempty": true,
+  "nonew": true,
+  "trailing": true
+}
